@@ -2,7 +2,8 @@
 - I have designed a clone of Telenor Apollo using Jetpack Compose. This project showcases my implementation of Telenor Apollo's design using Jetpack Compose, highlighting its UI/UX elements and functionalities.
 ---
 ## Screenshots
-<img src="https://github.com/talhamughal1997/Telenor_Apollo_Clone/assets/41115576/75b35c8e-3655-4529-a7b0-bad1245d69e2" alt="Telenor Apollo Clone" width="400">
+<img src="![Uploading image.png…]()
+" alt="Telenor Apollo Clone" width="400">
 
 
 ---
